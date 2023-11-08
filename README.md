@@ -1,15 +1,5 @@
 # Apollolume
 
-## Contributors
-
-| Full Name     | Student ID  |
-| -------------  | ----------  |
-| Liu Siyan     | A0285857H   |
-| Lin Zijun     | A0285897Y   |
-| Lai Weichih   | A0285875H   |
-| Fang Ruolin   | A0285983H   |
-| Bian Weizhen  | A0285814W   |
-
 ## Installation and User Guide
 
 ### Introduction
